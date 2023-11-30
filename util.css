@@ -1,0 +1,31 @@
+.flex{
+    display: flex;
+}
+.item-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-right{
+    justify-content: right;
+}
+.date-left{
+    position: absolute;
+    top: 25%;
+    left: 119%;
+}
+.left-box{
+    left: 0;
+}
+.right-box{
+    left: 50%;
+}
+.date-right{
+    position: absolute;
+    top: 25%;
+    right: 75%;
+}
